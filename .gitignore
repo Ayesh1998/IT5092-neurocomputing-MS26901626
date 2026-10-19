@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# macOS
+.DS_Store
+
+# Lab 1 EEG data (download from PhysioNet, see README)
+lab01_eeg_rhythms/files/
+*.edf
+*.edf.event
+
+# archives
+*.zip
+*.rar
